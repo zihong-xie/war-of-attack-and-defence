@@ -3,8 +3,6 @@ War of Attack and Defence is a card game adapted from the classic card game, War
 
 Although the game has very simple rules, it actually offers a great deal of strategic depth. As well as testing memory, it involves extremely long chains of consequences and logical reasoning.
 
-The game also features a spatial logic that differs from classical card and board games. Although it is a one-dimensional space, it can be likened to the 'timeline of a four-dimensional space'.
-
 ## Rules of the Game
 1. For two players.
 2. No jokers.
