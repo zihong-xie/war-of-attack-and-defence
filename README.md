@@ -13,7 +13,7 @@ Although the game has very simple rules, it actually offers a great deal of stra
    3. Once the decision has been made, players must simultaneously announce their strategy and play their cards; no going back.
    4. Determine the outcome based on both players' strategies and cards (see the Judgment section).
 5. The winner of the turn takes their played card back and takes the card played by the opponent; if they need to take a second card, they take the top card from the opponent's hand.
-   1. Do not reveal the value of the second card won (the top card of the opponent's hand) and keep it face down.
+   1. The winner must reveal the second card to both players before taking it.
 6. Won cards (including those you have played) are placed at the bottom of your hand
    1. The order in which the cards are placed is as follows: your own cards are at the bottom, followed by the cards played by your opponent, and then the top card of your opponent's hand.
 7. The first player to run out of cards loses.
