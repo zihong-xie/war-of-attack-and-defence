@@ -27,8 +27,13 @@ Although the game has very simple rules, it actually offers a great deal of stra
 - Both players defend: swap the cards they have played and return them to the bottom of their decks.
 
 ## Card Rankings
-- 2 < 3 < 4 < 5 < 6 < 7 < 8 < 9 < 10 < J < Q < K < A
-- Only 2 can beat A.
+The method for determining the rank of a card is exceptionally unique. A card is defeated by the 6 cards following it in the sequence, and defeats the 6 cards preceding it.
+
+For example, a 7 can beat cards from A to 6, whilst cards from 8 to K can beat a 7.
+
+The entire sequence forms a cycle. For example, A beats 8 to K, whilst 2 to 7 beats A. K beats 7 to Q, whilst A to 6 beats K.
+
+- A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
 
 ## Strategy
 In a single turn, if a player knows their card is stronger than their opponent's, they attack; if they know their card is weaker or equal to their opponent's, they defend.
